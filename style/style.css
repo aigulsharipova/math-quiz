@@ -1,0 +1,10 @@
+body {
+  background-color: #657fa7;
+  background-image: linear-gradient(315deg, #b8c6db 0%, #c78ce0 100%);
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Noto Sans JP', sans-serif;
+  }
