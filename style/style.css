@@ -15,3 +15,9 @@ form {
   display: flex;
   flex-wrap:wrap;
 }
+label {
+  font-size: 25px;
+  padding: 10px;
+  margin-top: 10px;
+  font-weight: bold;
+}
