@@ -1,10 +1,17 @@
 body {
-  background-color: #657fa7;
-  background-image: linear-gradient(315deg, #b8c6db 0%, #c78ce0 100%);
+  background-image: url(./photo.jpg);
   font-family: 'Poppins', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Kanit', sans-serif;
   }
+form {
+  background-color: #fff;  
+  width: 600px;
+  overflow: hidden;
+  padding: 100px;
+  display: flex;
+  flex-wrap:wrap;
+}
