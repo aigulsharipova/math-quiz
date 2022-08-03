@@ -24,3 +24,10 @@ label {
 .question {
   padding: 30px;
 }
+.btn {
+  background-color: black;
+  color: white;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10px;
+}
