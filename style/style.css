@@ -11,7 +11,7 @@ form {
   background-color: #fff;  
   width: 600px;
   overflow: hidden;
-  padding: 50px;
+  padding: 40px;
   display: flex;
   flex-wrap:wrap;
 }
