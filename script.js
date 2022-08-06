@@ -1,6 +1,8 @@
 const button = document.querySelector('.btn');
 button.addEventListener('click', result);
 
+const par = document.querySelector('#show');
+
 function result(e) {
   e.preventDefault();
 
@@ -25,4 +27,5 @@ function result(e) {
   if(document.querySelector('#correctAnswerFive').checked) {
     points ++;
   }
+
 }
