@@ -27,5 +27,5 @@ function result(e) {
   if(document.querySelector('#correctAnswerFive').checked) {
     points ++;
   }
-
+par.textContent = "Your correct answer: " + points;
 }
