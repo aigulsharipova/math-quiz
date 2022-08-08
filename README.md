@@ -2,7 +2,7 @@
 
 The app is simple math questions.
 
-- ## [Restaurant](https://game-math.glitch.me)
+- ## [Game](https://game-math.glitch.me)
 
 ---
 
